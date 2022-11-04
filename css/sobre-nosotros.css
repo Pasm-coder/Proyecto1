@@ -1,0 +1,144 @@
+.sobre-nosotros {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.sobre_nosotros__titulo {
+    position: absolute;
+width: 278px;
+height: 24px;
+left: 42px;
+top: 1756px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+text-transform: uppercase;
+
+color: #4F4C4C;
+}
+
+.sobre_nosotros__texto {
+    position: absolute;
+width: 400px;
+height: 22px;
+left: 42px;
+top: 2089px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+.sobre_nosotros__plataformas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+}
+
+.sobre_nosotros1 {
+    position: absolute;
+width: 506px;
+height: 22px;
+left: 42px;
+top: 1803px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+.sobre_nosotros2 {
+    position: absolute;
+width: 521px;
+height: 88px;
+left: 42px;
+top: 1841px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+color: #000000;
+}
+
+.sobre_nosotros3 {
+    position: absolute;
+width: 488px;
+height: 44px;
+left: 42px;
+top: 1945px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+
+color: #4F4C4C;
+}
+
+
+.nosotros__android{
+    background-image: url(../img/android.png);
+    position: absolute;
+width: 35px;
+height: 40px;
+left: 118px;
+top: 2030px;
+}
+
+.nosotros__blackberry{
+    background-image: url(../img/blackberry.png);
+    position: absolute;
+width: 58px;
+height: 41px;
+left: 228px;
+top: 2030px;
+}
+
+.nosotros__apple{
+    background-image: url(../img/apple.png);
+    position: absolute;
+width: 33px;
+height: 41px;
+left: 362px;
+top: 2030px;
+}
+
+.nosotros__windowsphone{
+    background-image: url(../img/windowsphone.png);
+    position: absolute;
+width: 40px;
+height: 41px;
+left: 470px;
+top: 2030px;
+}
+
+.nosotros_imagen{
+    position: absolute;
+    width: 348px;
+    height: 500px;
+    left: 800px;
+    top: 1759px;
+    
+    border-radius: 0px; 
+}

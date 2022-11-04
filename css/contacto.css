@@ -1,0 +1,82 @@
+.contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* text-align:  */
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.contacto__titulo {
+    position: absolute;
+width: 142px;
+height: 24px;
+left: 550px;
+top: 2842px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+text-align: center;
+text-transform: uppercase;
+
+color: #4F4C4C;
+
+}
+
+.contacto__boton {
+    position: absolute;
+width: 270px;
+height: 16px;
+left: 550px;
+top: 2946px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+/* identical to box height, or 89% */
+text-align: center;
+
+color: #E33B3B;
+
+box-sizing: border-box;
+
+position: absolute;
+width: 350px;
+height: 50px;
+left: 435px;
+top: 2929px;
+
+border: 1px solid #B72E2E;
+border-radius: 5px;
+}
+
+.contacto_texto {
+    position: absolute;
+width: 242px;
+height: 16px;
+left: 490px;
+top: 2886px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #000000;
+}
+
+.institucional__titulo{
+    
+}
+
